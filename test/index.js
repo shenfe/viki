@@ -9,4 +9,8 @@ const viki = require('../src/index.js');
 
 viki('deep learning');
 viki('Deep learning');
+viki('embed');
+viki('matrix');
+viki('rnn');
+viki('cnn');
 // viki('machine learning');
